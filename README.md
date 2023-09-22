@@ -10,6 +10,6 @@
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" />
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"width="55" height="55" />        
-<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg width="55" height="55""/>
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg width="55" height="55"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabuzato\&layout=compact)
